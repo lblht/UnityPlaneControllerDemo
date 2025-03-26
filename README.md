@@ -9,7 +9,7 @@ _A simple demo project for a plane controller in Unity._
 | **X**   | Start Engine |
 | **W/S** | Pitch        |
 | **A/D** | Yaw          |
-| **Q/R** | Roll         |
+| **Q/E** | Roll         |
 
 ## **Demo Preview**
 
